@@ -16672,3 +16672,8 @@ to explore life. Also, Python and Django Developer
  - Place: West Bengal, India
  - Bio: Learning Web Dev & Design
  - GitHub: [lenkachinmoy](https://github.com/lenkachinmoy)
+ 
+#### Name: [Arijit Das](https://github.com/UzumakiArijit)
+ - Place: West Bengal, India
+ - Bio: Learning Web Dev & Design
+ - GitHub: [UzumakiArijit](https://github.com/UzumakiArijit)
